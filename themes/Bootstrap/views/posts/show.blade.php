@@ -335,7 +335,7 @@ Template sidebar
                     <li><a href="#">Newest Properties</a></li>
                 </ul>
             </div>
-            <!--/col-->
+            <!--/col------------------------------------------------------>
             <div>
                 <h4 class="sidebar-title">Latest News</h4>
                 <ul class="list-unstyled">
