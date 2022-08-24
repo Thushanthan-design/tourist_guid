@@ -72,10 +72,11 @@
 						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
 							<ul class="sf-menu">
 								<li ><a href="{{route('welcome')}}">Home</a></li>
-								<li><a href="{{route('dashboard')}}">Dashboard</a></li> 
+								
 								<li><a href="{{route('places')}}">Places</a></li>
 								<li><a href="{{route('blog')}}">BLOG</a></li>
                 			<li><a href="{{route('contact')}}">CONTACTS</a></li>
+							<li><a href="{{route('dashboard')}}">Register & Login</a></li> 
 							</ul>
 						</nav>
 						<div class="clear"></div>
@@ -128,7 +129,7 @@
 			</div>
 		</div>
 <!--==============================Content=================================-->
-<style>
+<!-- <style>
 
 
 * {
@@ -371,7 +372,7 @@
 			</div>
 		</div>
 <!--==============================footer=================================-->
-		<footer>
+		<!-- <footer>
 			<div class="container_12">
 				<div class="grid_12">
 					<div class="socials">
@@ -394,6 +395,6 @@
 			$(function() {
 				$('#bookingForm input, #bookingForm textarea').placeholder();
 			});
-		</script>
+		</script> --> -->
 	</body>
 </html>
