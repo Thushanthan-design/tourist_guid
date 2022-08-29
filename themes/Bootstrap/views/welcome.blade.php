@@ -80,7 +80,7 @@
 							<li><a href="{{route('places')}}">Places</a></li>
 							<li><a href="{{route('blog')}}">BLOG</a></li>
 							<li><a href="{{route('contact')}}">CONTACTS</a></li>
-							<li><a href="{{route('dashboard')}}">Register & Login</a></li>
+							<li><a href="{{route('dashboard')}}">Login</a></li>
 
 
 
