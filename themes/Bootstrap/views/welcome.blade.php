@@ -139,7 +139,7 @@
 	<!-- <style>
 
 
-* {
+<!-- * {
   box-sizing: border-box;
 }
 
@@ -378,7 +378,7 @@
 					</div>
 				</div>
 			</div>
-<<<<<<< HEAD
+
 		</div>
 ==============================footer=================================-->
 	<!-- </div> --> -->
@@ -406,11 +406,12 @@
 			$(function() {
 				$('#bookingForm input, #bookingForm textarea').placeholder();
 			});
-<<<<<<< HEAD
+
 		</script> --> -->
 
 	<!--==============================footer=================================-->
-	<footer>
+	
+	<!-- <footer>
 		<div class="container_12">
 			<div class="grid_12">
 				<div class="socials">
@@ -430,7 +431,7 @@
 				ownerEmail: '#'
 			});
 		})
-	</script>
+	</script> -->
 
 
 
